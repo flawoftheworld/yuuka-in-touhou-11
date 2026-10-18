@@ -1,0 +1,35 @@
+Yuuka Kazami in Touhou 11
+
+A fan-made Touhou 11 character replacement patch.
+
+Features
+
+Replaces the playable character's sprites with Yuuka Kazami.
+
+Includes custom stage dialogue changes.
+
+Requirements:
+
+- A legally obtained (or not) copy of Touhou 11: Subterranean Animism.
+
+- Touhou Community Reliant Automatic Patcher (thcrap).
+
+Installation
+
+Back up your existing thcrap configuration.
+
+Copy the yuuka_th11 patch folder into your thcrap repos/local/ directory.
+
+Add repos/local/yuuka_th11/ to the patches array in your run configuration, after the English translation patch.
+
+Launch Touhou 11 using that configuration.
+
+Notes
+
+This is an unofficial fan-made mod and is not affiliated with Team Shanghai Alice.
+
+special thanks to all the ppl who follow the "thetouhou_guy" instagram page
+
+fuck you to @2hu_everyday on instagram for winning the top comment of my weekly upload and making me do this and bothering me because of some shit like "i want the mod pls :(" like bitch let me finish the mod and then ask for the mod ffs 
+
+and lastly fuck you to the moriya shrine because piracy is bad

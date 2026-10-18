@@ -1,0 +1,114 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Just how far does this hell hole go!?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Yukari >(...You're almost there.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Yukari >(You should reach the Former Capital soon.)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Oh, are you the flower yokai?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "What does the flower yokai want in the Former Capital?"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "uhhh..."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Are you coming to look for our cursed power?"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "<t$Yukari >(.....yuuka. kill.)"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "<t$Yukari >(All i want is bloodshed,",
+                "<l$> yuuka.)"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "<t$Yukari >(Just... kill..)"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "you are oddly angry for some reason today... why is that?"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "I just wanted to know who or what is causing the.",
+                " geysers. I think you are tricking me into killing, Yukari."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "<t$Yukari >(Hmhmhm, I'm not tricking anyone.)"
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "I'm jealous of the light above ground.",
+                "I'm jealous of the gentle breezes."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "i am jealous",
+                "jealous of your flower garden"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "What was her problem?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<t$Yukari >(She's a youkai of jealousy binding the world of the",
+                "<l$> living to the world of the dead through her regrets.)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "okay pokedex",
+                "i didnt tell you to give me her description"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "also where are we going?",
+                "you better not take me to hell or something"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "<t$Yukari >(who knows we might end up there if",
+                "<l$> we cant find who is causing the geysers)"
+            ]
+        }
+    }
+}
