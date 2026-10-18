@@ -1,5 +1,8 @@
 # yuuka-in-touhou-11
 A Touhou 11 fan patch that replaces the player character with Yuuka Kazami and adds custom dialogue.
+
+please only play the first shot type of yuuka bcz the others have their dialouge unfinished
+
 Requirements:
 
 - A legally obtained (or not) copy of Touhou 11: Subterranean Animism.
